@@ -11,16 +11,16 @@ This is a simple web application written in vanilla PHP that allows users to cre
 ## Screenshots
 
 - **Home :**
-  ![Home](https://github.com/MrMDrX/Posting-App-PHP/blob/main/screenshots/screenshots/home.png)
+  ![Home](https://github.com/MrMDrX/Posting-App-PHP/blob/main/screenshots/home.png)
 
 - **Create :**
-  ![Create](https://github.com/MrMDrX/Posting-App-PHP/blob/main/screenshots/screenshots/create.png)
+  ![Create](https://github.com/MrMDrX/Posting-App-PHP/blob/main/screenshots/create.png)
 
 - **Post :**
-  ![Post](https://github.com/MrMDrX/Posting-App-PHP/blob/main/screenshots/screenshots/post.png)
+  ![Post](https://github.com/MrMDrX/Posting-App-PHP/blob/main/screenshots/post.png)
 
 - **Errors :**
-  ![Errors](https://github.com/MrMDrX/Posting-App-PHP/blob/main/screenshots/screenshots/errors.png)
+  ![Errors](https://github.com/MrMDrX/Posting-App-PHP/blob/main/screenshots/errors.png)
 
 ## Requirements
 
