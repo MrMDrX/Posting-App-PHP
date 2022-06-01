@@ -30,6 +30,20 @@ This is a simple web application written in vanilla PHP that allows users to cre
 
 ## Installation
 
+### Setting Up the Database
+
+1. Create Database Schema:
+   - Run the `postsdb.sql` file to create the `postsdb` database and the `posts` table. You can do this using a MySQL client such as phpMyAdmin or the MySQL command line interface.
+
+   ```bash
+   mysql -u your_username -p postsdb < postsdb.sql
+   ```
+
+2. Configure Database Connection:
+   - Update the database connection settings in your PHP application to connect to the `postsdb` database (change `your_username` and `your_password`).
+
+### Clone and run the web application
+
 1. Clone the repository:
 
    ```bash
